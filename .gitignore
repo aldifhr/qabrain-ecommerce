@@ -11,6 +11,15 @@ node_modules/
 .env
 .env.local
 
+# Local tooling
+.playwright-mcp/
+.vscode/
+
+# Bug reports & test docs
+BUG_REPORT_Login_Error.md
+TEST_CASES.md
+*.xlsx
+
 # OS
 Thumbs.db
 .DS_Store
